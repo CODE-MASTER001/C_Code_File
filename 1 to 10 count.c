@@ -6,5 +6,4 @@ int main() {
         i = i + 1;
     }
     return 0;
-    printf("nikhil");
 }
